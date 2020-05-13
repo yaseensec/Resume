@@ -782,8 +782,8 @@ body.light .shadow-dark {
 
 @media (max-width: 767px) {
   .contact .contact-form .col-6,
-  .about .about-content .experience,
-  .about .about-content .education,
+  .resume .experience,
+  .resume .education,
   .about .about-content .skills,
   .about .about-content .personal-info {
     -ms-flex: 0 0 100%;
