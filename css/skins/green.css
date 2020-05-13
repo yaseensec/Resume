@@ -1,0 +1,30 @@
+.aside .logo a::before {
+  border-top: 4px solid #72b626;
+  border-left: 4px solid #72b626;
+}
+
+.aside .logo a::after {
+  border-bottom: 4px solid #72b626;
+  border-right: 4px solid #72b626;
+}
+.contact .contact-info-item .icon .fa,
+.about .about-content .about-text h3 span,
+body.light .aside .nav li a:hover,
+body.light .aside .nav li a.active,
+.aside .nav li a:hover,
+.aside .nav li a.active {
+  color: #72b626;
+}
+
+.resume .timeline .circle-dot,
+.resume .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a {
+  background-color: #72b626;
+}
