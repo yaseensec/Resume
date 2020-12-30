@@ -1,7 +1,7 @@
 function submitToAPI(e) {
   e.preventDefault();
   var URL =
-    "https://rpgmw3dzrd.execute-api.us-east-1.amazonaws.com/MailFwd-Stage/mailfwdres";
+    "https://mc81gptw2g.execute-api.us-east-1.amazonaws.com/Mail/mailresource";
 
   var name = document.getElementById("name-input").value;
   var email = document.getElementById("email-input").value;
@@ -27,7 +27,7 @@ function submitToAPI(e) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.open(
     "POST",
-    "https://rpgmw3dzrd.execute-api.us-east-1.amazonaws.com/MailFwd-Stage/mailfwdres"
+    "https://mc81gptw2g.execute-api.us-east-1.amazonaws.com/Mail/mailresource"
   );
   xmlhttp.setRequestHeader("Content-Type", "application/json");
   xmlhttp.send(JSON.stringify(data));
