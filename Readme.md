@@ -5,7 +5,7 @@ This portfolio website is made using HTML5,CSS3 and JAVASCRIPT
 Description
 ============
 
-This personal portfolio is simple,modern,creative and responsive.It helps to present yourself or business resume more smartly and easily.This template is built with HTML5,CSS3 and JavaScript and is 100% Responsive.Verything in the code is well commented and W3 Validated.Working contact form was made available whose dynamic features were handled by AWS services like Lambda,API Gateway and SES.
+This personal portfolio is simple,modern,creative and responsive.It helps to present yourself or business resume more smartly and easily.This template is built with HTML5,CSS3 and JavaScript and is 100% Responsive.Everything in the code is well commented and W3 Validated.Working contact form was made available whose dynamic features were handled by AWS services like Lambda,API Gateway and SES.
 
 <img src="images/screenshot1.png">
 <img src="images/screenshot2.png">
