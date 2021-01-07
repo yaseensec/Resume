@@ -438,7 +438,6 @@ select {
 }
 
 .about .about-content .personal-info {
-  /*background-color: red;*/
   -ms-flex: 0 0 60%;
   flex: 0 0 60%;
   max-width: 60%;
@@ -458,6 +457,7 @@ select {
   color: #e9e9e9;
   margin: 0;
   border-bottom: 1px solid #393939;
+  
 }
 
 .about .about-content .personal-info .info-item p span {
@@ -465,6 +465,14 @@ select {
   color: #e9e9e9;
   margin-left: 4px;
   display: inline-block;
+}
+
+.about .about-content .personal-info .info-item p a {
+  font-weight: 400;
+  color: #e9e9e9;
+  margin-left: 4px;
+  display: inline-block;
+  text-decoration: underline;
 }
 
 .about .about-content .personal-info .buttons {
