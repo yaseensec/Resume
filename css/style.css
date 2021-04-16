@@ -546,15 +546,15 @@ select {
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
   max-width: 50%;
-  margin-top: 0px;
+  margin-top: 30px;
 }
 
-/*.resume .experience {
+.resume .experience {
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
   max-width: 50%;
   margin-top: 10px;
-}*/
+}
 
 .resume h3.title {
   font-size: 24px;
@@ -795,7 +795,7 @@ body.light .shadow-dark {
 
 @media (max-width: 767px) {
   .contact .contact-form .col-6,
-  /*.resume .experience,*/
+  .resume .experience,
   .resume .education,
   .about .about-content .skills,
   .about .about-content .personal-info {
